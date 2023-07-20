@@ -14,4 +14,14 @@
   13 date
   14 date +'%D'
   15 history
-  16 history > history_18.txt
+  16 history > history_18.txt 
+
+
+Create a text file /home/user/start/1.txt , after creating the necessary directory before that.
+2 Add the word Start to the text document you created earlier.
+3 Add the current date to the end of the document using date (started with the date command).
+4 Copy the resulting document to /opt/task/start.txt (We first create the necessary directory)
+5 In the document /opt/task/start.txt add the last 4 lines from the list of ALL (including hidden) files\folders located in /
+6 Copy the task folder with its contents to the /tmp/testnew directory
+7 Add the output from the readme.txt file located in the user's home folder to the migrated start.txt file
+8 Delete the old task folder along the /opt/task path with all the contents
